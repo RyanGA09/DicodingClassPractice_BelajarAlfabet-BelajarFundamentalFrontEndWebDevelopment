@@ -46,11 +46,14 @@ header .wrapper {
 .char-list {
   margin-block: 1rem;
 
-  display: flex;
+  /* display: flex;
   flex-wrap: wrap;
-  justify-content: center;
+  justify-content: center; */
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  /* flex-basis: 15%; */
 
-  column-gap: 2%;
+  column-gap: 24px;
   row-gap: 24px;
 }
 
@@ -59,8 +62,8 @@ header .wrapper {
   border-radius: 8px;
   padding: 16px;
 
-  flex-basis: 15%;
-
+  /* flex-basis: 15%; */
+  overflow: hidden;
   transition: all 150ms ease-in;
 }
 
