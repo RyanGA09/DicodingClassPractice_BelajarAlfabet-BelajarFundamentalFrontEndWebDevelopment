@@ -18,18 +18,6 @@ Additionally, this exercise helps users understand how to modify and adapt page 
 
 Through this exercise, you’ll not only create an educational app but also gain a deeper understanding of how CSS Grid works and how to apply it to real-world projects.
 
-## Objective
-
-The purpose of this exercise is to provide a better understanding of how to use CSS Grid in a front-end project. By building the Learn the Alphabet page, users will learn how to arrange page elements responsively and dynamically using CSS Grid, which is an essential skill in modern web development.
-
-Furthermore, this exercise will also give users the opportunity to:
-
-- Understand the differences between Flexbox and CSS Grid in layout design.
-- Learn how to use media queries for responsive design.
-- Create a layout that adjusts to different screen sizes, from desktop to mobile devices.
-
-Ultimately, this exercise will provide hands-on experience in building a web app that is not only enjoyable to use but also efficient in terms of styling and performance.
-
 ## LICENSE
 
 Copyright &copy; 2025 Ryan Gading Abdullah. All rights reserved.
